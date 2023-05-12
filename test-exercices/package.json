@@ -1,0 +1,14 @@
+{
+  "name": "test-exercices",
+  "version": "1.0.0",
+  "description": "test jest for exercices",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "luis teyssier",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
